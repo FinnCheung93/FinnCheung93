@@ -1,22 +1,22 @@
 <svg width="1280" height="520" viewBox="0 0 1280 520" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="520" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0B1020"/>
-      <stop offset="0.48" stop-color="#102347"/>
-      <stop offset="1" stop-color="#062E31"/>
+      <stop offset="0" stop-color="#0A1020"/>
+      <stop offset="0.48" stop-color="#12213D"/>
+      <stop offset="1" stop-color="#083236"/>
     </linearGradient>
-    <linearGradient id="accent" x1="256" y1="130" x2="1030" y2="404" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8B5CF6"/>
-      <stop offset="0.52" stop-color="#2F81F7"/>
+    <linearGradient id="accent" x1="236" y1="122" x2="1044" y2="412" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="0.5" stop-color="#60A5FA"/>
       <stop offset="1" stop-color="#2DD4BF"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(704 248) rotate(90) scale(230 520)">
-      <stop stop-color="#2DD4BF" stop-opacity="0.26"/>
-      <stop offset="0.45" stop-color="#2F81F7" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#0B1020" stop-opacity="0"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(640 250) rotate(90) scale(240 540)">
+      <stop stop-color="#60A5FA" stop-opacity="0.22"/>
+      <stop offset="0.42" stop-color="#2DD4BF" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#0A1020" stop-opacity="0"/>
     </radialGradient>
     <filter id="blur" x="-60" y="-80" width="1400" height="680" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="36"/>
+      <feGaussianBlur stdDeviation="38"/>
     </filter>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
       <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.25"/>
@@ -24,37 +24,45 @@
   </defs>
 
   <rect width="1280" height="520" rx="38" fill="url(#bg)"/>
-  <rect x="1.5" y="1.5" width="1277" height="517" rx="36.5" stroke="#24304F" stroke-width="3"/>
-  <circle cx="690" cy="252" r="1" fill="url(#glow)" filter="url(#blur)"/>
+  <rect x="1.5" y="1.5" width="1277" height="517" rx="36.5" stroke="#25314F" stroke-width="3"/>
+  <circle cx="640" cy="250" r="1" fill="url(#glow)" filter="url(#blur)"/>
 
-  <g opacity="0.45">
-    <path d="M170 360C306 242 413 196 525 224C630 250 688 347 805 306C905 271 990 177 1098 148" stroke="url(#accent)" stroke-width="2.3" stroke-linecap="round"/>
-    <path d="M205 146C329 225 454 254 574 222C701 188 778 104 920 139C990 156 1050 198 1110 253" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
-    <path d="M244 422C374 341 496 326 611 354C750 388 854 398 996 310" stroke="url(#accent)" stroke-width="1.8" stroke-linecap="round" opacity="0.35"/>
+  <g opacity="0.34">
+    <path d="M174 370C300 250 434 184 558 220C681 256 730 350 861 300C953 265 1024 180 1112 144" stroke="url(#accent)" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M190 150C315 236 448 260 576 225C688 194 777 112 914 145C1005 167 1060 222 1116 280" stroke="url(#accent)" stroke-width="1.9" stroke-linecap="round" opacity="0.7"/>
+    <path d="M265 426C380 346 503 326 620 354C746 384 871 393 1015 310" stroke="url(#accent)" stroke-width="1.7" stroke-linecap="round" opacity="0.45"/>
   </g>
 
-  <g opacity="0.5">
-    <circle cx="205" cy="132" r="3" fill="#93C5FD"/>
-    <circle cx="310" cy="350" r="3" fill="#2DD4BF"/>
-    <circle cx="431" cy="173" r="3.5" fill="#C4B5FD"/>
-    <circle cx="890" cy="116" r="3" fill="#5EEAD4"/>
-    <circle cx="1044" cy="366" r="3.5" fill="#93C5FD"/>
-    <circle cx="1122" cy="174" r="2.5" fill="#C4B5FD"/>
+  <g opacity="0.6">
+    <circle cx="240" cy="140" r="3" fill="#93C5FD"/>
+    <circle cx="342" cy="344" r="3" fill="#2DD4BF"/>
+    <circle cx="438" cy="188" r="3.5" fill="#C4B5FD"/>
+    <circle cx="874" cy="126" r="3" fill="#5EEAD4"/>
+    <circle cx="1048" cy="352" r="3.5" fill="#93C5FD"/>
+    <circle cx="1114" cy="182" r="2.5" fill="#C4B5FD"/>
   </g>
 
   <g filter="url(#shadow)">
-    <rect x="486" y="174" width="308" height="122" rx="28" fill="#0F172A" stroke="url(#accent)" stroke-width="2.6"/>
-    <circle cx="550" cy="235" r="24" fill="#111D35" stroke="#60A5FA" stroke-width="2"/>
-    <circle cx="640" cy="235" r="24" fill="#111D35" stroke="#2DD4BF" stroke-width="2"/>
-    <circle cx="730" cy="235" r="24" fill="#111D35" stroke="#A78BFA" stroke-width="2"/>
-    <path d="M574 235H616" stroke="#8BA6D9" stroke-width="3" stroke-linecap="round"/>
-    <path d="M664 235H706" stroke="#8BA6D9" stroke-width="3" stroke-linecap="round"/>
-    <text x="550" y="242" text-anchor="middle" fill="#E0F2FE" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700">P</text>
-    <text x="640" y="242" text-anchor="middle" fill="#CCFBF1" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700">S</text>
-    <text x="730" y="242" text-anchor="middle" fill="#EDE9FE" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700">AI</text>
+    <circle cx="640" cy="236" r="76" fill="#0F172A" stroke="url(#accent)" stroke-width="2.6"/>
+    <circle cx="640" cy="236" r="48" stroke="#60A5FA" stroke-width="2" stroke-opacity="0.55"/>
+    <circle cx="640" cy="236" r="20" stroke="#2DD4BF" stroke-width="2" stroke-opacity="0.75"/>
+    <circle cx="640" cy="236" r="5" fill="#F8FAFC"/>
+    <path d="M594 214C614 186 659 180 688 202" stroke="#A78BFA" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+    <path d="M590 258C613 290 666 295 696 266" stroke="#2DD4BF" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
   </g>
 
-  <text x="640" y="108" text-anchor="middle" fill="#94A3B8" font-family="'Segoe UI', Arial, sans-serif" font-size="21" letter-spacing="4">PRODUCT · AI CODING · SKILLS</text>
-  <text x="640" y="383" text-anchor="middle" fill="#F8FAFC" font-family="'Segoe UI', 'Noto Sans SC', Arial, sans-serif" font-size="58" font-weight="700">FinnCheung93</text>
-  <text x="640" y="426" text-anchor="middle" fill="#B6C2D9" font-family="'Segoe UI', 'Noto Sans SC', Arial, sans-serif" font-size="24">PM workflow skills for clearer AI Coding collaboration</text>
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="600">
+    <rect x="248" y="226" width="74" height="36" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="285" y="250" text-anchor="middle" fill="#BFDBFE">PM</text>
+    <rect x="374" y="156" width="70" height="36" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="409" y="180" text-anchor="middle" fill="#C4B5FD">AI</text>
+    <rect x="828" y="158" width="106" height="36" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="881" y="182" text-anchor="middle" fill="#CCFBF1">Photo</text>
+    <rect x="946" y="292" width="112" height="36" rx="18" fill="#111827" stroke="#334155"/>
+    <text x="1002" y="316" text-anchor="middle" fill="#FDE68A">Explore</text>
+  </g>
+
+  <text x="640" y="102" text-anchor="middle" fill="#94A3B8" font-family="'Segoe UI', Arial, sans-serif" font-size="21" letter-spacing="4">PM · AI · PHOTOGRAPHY · FRONTIER EXPLORATION</text>
+  <text x="640" y="396" text-anchor="middle" fill="#F8FAFC" font-family="'Segoe UI', 'Noto Sans SC', Arial, sans-serif" font-size="58" font-weight="700">FinnCheung93</text>
+  <text x="640" y="438" text-anchor="middle" fill="#B6C2D9" font-family="'Segoe UI', Arial, sans-serif" font-size="25">Curious Product Manager</text>
 </svg>
