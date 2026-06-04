@@ -48,27 +48,10 @@
 - [Skill 吸星大法](https://github.com/FinnCheung93/skill-siphon)：分析、审查、对比和优化 Codex Skills 的方法型 Skill。
 - [Codex 会话搬家](https://github.com/FinnCheung93/codex-session-mover)：迁移 Codex Desktop / CLI 会话记录到新的项目目录。
 
-## ✨ 我在整理什么
+## 📷 其他兴趣
 
-- 面向 PM 的 AI Coding 工作流
-- 开发可落地的 PRD 与规格表达
-- 能被 AI Agent 稳定读取的项目上下文
-- 从想法、文档到原型的轻量协作链路
-- 可复用、可审查、边界清楚的 Codex Skills
-
-## 📌 使用方式
-
-每个 Skill 都是独立仓库。进入对应仓库后，将其中的 skill 目录安装或复制到你的 Codex skills 目录即可。
-
-```text
-SKILL.md
-```
-
-## 📊 GitHub 状态
-
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FinnCheung93&show_icons=true&hide_border=true&theme=transparent&locale=cn" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinnCheung93&layout=compact&hide_border=true&theme=transparent&locale=cn" alt="Top Languages" />
-</p>
+- 摄影：喜欢观察光线、空间、情绪和日常里的细节
+- 前沿探索：持续尝试 AI 工具、Agent 工作流和新的产品交互方式
+- 产品系统：关注复杂信息如何被组织、表达和协作
 
 <sub>这些仓库暂未提供开源许可证，默认保留所有权利。</sub>
