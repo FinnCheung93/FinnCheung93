@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/readme/hero.svg" alt="FinnCheung93 - PM workflow skills for AI Coding" />
+<img src="./assets/readme/hero-personal.svg" alt="FinnCheung93 - Curious Product Manager" />
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=PM+%E2%86%92+PRD+%E2%86%92+Spec+%E2%86%92+Prototype+%E2%86%92+AI+Coding;%E6%8A%8A%E4%BA%A7%E5%93%81%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E6%9B%B4%E6%B8%85%E6%A5%9A%E7%9A%84+AI+Coding+%E4%B8%8A%E4%B8%8B%E6%96%87;%E5%81%9A%E8%83%BD%E8%A2%AB%E8%AF%BB%E6%87%82%E3%80%81%E8%A2%AB%E5%AE%9E%E7%8E%B0%E3%80%81%E8%A2%AB%E5%A4%8D%E7%94%A8%E7%9A%84+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Curious+Product+Manager;PM+%C2%B7+AI+%C2%B7+Photography+%C2%B7+Frontier+Exploration;%E7%88%B1%E6%8E%A2%E7%B4%A2%E7%9A%84%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%EF%BC%8C%E4%B9%9F%E5%9C%A8%E6%95%B4%E7%90%86+AI+Coding+Skills)](https://git.io/typing-svg)
 
 <br>
 
