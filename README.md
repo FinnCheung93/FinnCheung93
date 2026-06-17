@@ -8,11 +8,7 @@
 
 <br>
 
-<p>
-  <img src="https://img.shields.io/static/v1?label=Product&message=Management&color=2563eb&style=flat" />
-  <img src="https://img.shields.io/static/v1?label=AI&message=Agent%20Skills&color=14b8a6&style=flat" />
-  <img src="https://img.shields.io/static/v1?label=Language&message=%E4%B8%AD%E6%96%87&color=f59e0b&style=flat" />
-</p>
+<p><kbd>Product Management</kbd> <kbd>AI Agent Skills</kbd> <kbd>Language 中文</kbd></p>
 
 </div>
 
