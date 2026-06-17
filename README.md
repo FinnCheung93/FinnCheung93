@@ -8,12 +8,7 @@
 
 <br>
 
-<p>
-  <img src="https://img.shields.io/badge/Product-Management-2563eb?style=flat" />
-  <img src="https://img.shields.io/badge/AI-Coding-14b8a6?style=flat" />
-  <img src="https://img.shields.io/badge/Codex-Skills-7c3aed?style=flat" />
-  <img src="https://img.shields.io/badge/Language-中文-f59e0b?style=flat" />
-</p>
+<p><sub><code>Product Management</code> · <code>AI</code> · <code>AI Agent Skills</code> · <code>Language 中文</code></sub></p>
 
 </div>
 
