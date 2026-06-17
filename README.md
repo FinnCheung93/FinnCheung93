@@ -9,10 +9,10 @@
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Product-Management-2563eb?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Coding-14b8a6?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Product-Management-2563eb?style=flat" />
+  <img src="https://img.shields.io/badge/AI-Coding-14b8a6?style=flat" />
   <img src="https://img.shields.io/badge/Codex-Skills-7c3aed?style=flat" />
-  <img src="https://img.shields.io/badge/Language-中文-f59e0b?style=flat&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-中文-f59e0b?style=flat" />
 </p>
 
 </div>
