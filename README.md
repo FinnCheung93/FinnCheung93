@@ -24,24 +24,20 @@
 - 喜欢摄影，也喜欢用视觉方式观察和记录世界
 - 正在整理一组帮助 PM 与 AI 更好协作的 Skills
 
-## 🧭 PM 工作流系列
+## 🧭 PM 工作流与交付
 
-这一组 Skills 用来把产品想法逐步推进到 AI Coding 可执行状态。推荐顺序是：地基 → PRD → Spec → 原型。
+从项目开工、梳理需求到原型走查和实现验证，按手头的问题选用即可。
 
-| 顺序 | Skill | 作用 |
-|---|---|---|
-| 1 | [Agentic 地基](https://github.com/FinnCheung93/agentic-foundation) | 项目开工前，初始化原则、状态、日志和协作治理 |
-| 2 | [PM PRD 助手](https://github.com/FinnCheung93/pm-prd-copilot) | 澄清、撰写、修订和审查开发可落地的 PRD |
-| 3 | [AI Coding 规范文档](https://github.com/FinnCheung93/aicoding-specpilot) | 基于 PRD 生成更适合 AI Coding 读取的规格文档 |
-| 4 | [PM 原型助手](https://github.com/FinnCheung93/finn-protopilot) | 基于 PRD / Spec 生成产品走查原型和演示材料 |
+| 项目 | 用在什么时候 |
+|---|---|
+| [项目地基 · Agentic Foundation](https://github.com/FinnCheung93/agentic-foundation) | 新项目开工，或已有项目需要补齐协作规则、项目状态和长期记录时 |
+| [PM PRD 助手](https://github.com/FinnCheung93/pm-prd-copilot) | 需求还没讲清楚，或需要撰写、修订和审阅 PRD 时 |
+| [PM 原型助手](https://github.com/FinnCheung93/finn-protopilot) | 想把需求或设计做成能走查、能演示的原型时 |
+| [Finn Codecraft](https://github.com/FinnCheung93/finn-codecraft) · 插件 | 进入实现后，需要定位缺陷、审阅改动或验证修复时 |
 
-<sub>这些 Skills 可以按完整链路使用，也可以在具体任务里单独调用。</sub>
+## 🧰 其他工具
 
-## 🧰 其他 Skills
-
-- [拷打万物](https://github.com/FinnCheung93/grill-everything)：对方案、PRD、技术设计、商业模式和关键决策做严肃压力测试。
-- [Skill 吸星大法](https://github.com/FinnCheung93/skill-siphon)：分析、审查、对比和优化 Codex Skills 的方法型 Skill。
-- [Codex 会话搬家](https://github.com/FinnCheung93/codex-session-mover)：迁移 Codex Desktop / CLI 会话记录到新的项目目录。
+- [验收驱动循环](https://github.com/FinnCheung93/acceptance-loop)：按验收标准审阅、返修和复验交付物，通过后再交稿。
 
 ## 📷 其他兴趣
 
